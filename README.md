@@ -1,4 +1,4 @@
-### hey you, the love in me salutes he love in you 🖤
+### hey you, the love in me salutes the love in you 🖤
 
 - 🔭 I’m currently working on a simple realistic 3Draycaster and implementing daily routines that resonate with me
 - 🌱 I’m currently learning C, soon C++ and being human 
