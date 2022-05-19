@@ -7,7 +7,3 @@
 - 💬 Ask me about things you never dared asking
 - 📫 How to reach me: [Instagram](www.instagram.com)
 - ⚡ Fun fact: i am afraid i swallowed a tiny dinosaur that bays occasionally
-
-
-[![Rebelchris
-header](https://github.com/rebelchris/rebelchris/blob/master/assets/github-header.png)](https://daily-dev-tips.com)
