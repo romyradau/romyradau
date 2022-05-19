@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **romyradau/romyradau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,4 +11,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about things you never dared asking
 - 📫 How to reach me: {Instagram}(www.instagram.com)
 - ⚡ Fun fact: i am afraid i swallowed a tiny dinosaur that bays occasionally
--->
