@@ -9,4 +9,4 @@
 - 📫 How to reach me: [Instagram](www.instagram.com)
 - ⚡ Fun fact: i am the best when i am not myself
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romyradau&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=romyradau&hide=stars,prs,issues,contribs&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
