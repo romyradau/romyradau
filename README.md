@@ -1,7 +1,7 @@
 #### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=koulen&duration=7000&color=82C39E&width=600&height=100&lines=hey+you%2C+the+love+in+me+salutes+the+love+in+you+%F0%9F%96%A4)](https://git.io/typing-svg)
 
 
-[![rschleic's 42 stats](https://badge42.vercel.app/api/v2/cl3h75jg4003509l3m6z34dx7/stats?cursusId=21&coalitionId=159)(https://github.com/JaeSeoKim/badge42)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romyradau&layout=compact)
+[![rschleic's 42 stats](https://badge42.vercel.app/api/v2/cl3h75jg4003509l3m6z34dx7/stats?cursusId=21&coalitionId=159)](https://github.com/JaeSeoKim/badge42)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romyradau&layout=compact)
 - 👩🏼‍💻 Software engineer student at 42 Heilbronn, part of the 42 Network
 - 🔭 Currently working on a simple realistic 3Draycaster
 - 🌱 Implementing daily routines that resonate with me
