@@ -1,12 +1,12 @@
 ### hey you, the love in me salutes the love in you 🖤
 
-- 🏫 Software engineer student at 42 Heilbronn
-- Part of the 42 Network
+- 👩🏼‍💻 Software engineer student at 42 Heilbronn
+- 🏫 Part of the 42 Network
 - 🔭 Currently working on a simple realistic 3Draycaster
 - 🌱 Implementing daily routines that resonate with me
-- Learning C, soon C++ and being human 
+- 🧝 Learning C, soon C++ and being human 
 - 👯 Looking to collaborate on services which will assist us in a dreamlike (scifi) and useful way
-- 🤔 I’m open for new experiences and change
+- 🌬️ I’m open for new experiences and change
 - 💬 Ask me about things you never dared asking
 - 📫 How to reach me: [Instagram](https://www.instagram.com/romyradau/)
 - ⚡ Fun fact: i am the best when i am not myself
