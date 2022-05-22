@@ -1,4 +1,4 @@
-#### hey you, the love in me salutes the love in you 🖤
+#### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=koulen&size=14&color=A5F7C9&lines=hey+you%2C+the+love+in+me+salutes+the+love+in+you+%F0%9F%96%A4)](https://git.io/typing-svg)
 
 
 - 👩🏼‍💻 Software engineer student at 42 Heilbronn
