@@ -5,9 +5,9 @@
 
 
 - 👩🏼‍💻 Software engineer student at <a target="_blank" href="https://www.42heilbronn.de/en/">42 Heilbronn</a>, part of the <a target="_blank" href="https://42.fr/en/network-42/">world wide network</a>
-- 🔭 Currently working on a simple realistic 3Draycaster and subnetting
+- 🔭 Currently working on building a webserver
 - 🌱 Implementing daily routines that resonate with me
-- 🧝 Learning C, soon C++ and being human 
+- 🧝 Learning C++ and being human 
 - 👯 Looking to collaborate on services which will assist us in a dreamlike (scifi) and useful way
 - 🌬️ I’m open for new experiences and change
 - 💬 Ask me about things you never dared asking
