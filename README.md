@@ -5,14 +5,12 @@
 
 
 - 👩🏼‍💻 Software engineer student at <a target="_blank" href="https://www.42heilbronn.de/en/">42 Heilbronn</a>, part of the <a target="_blank" href="https://42.fr/en/network-42/">world wide network</a>
-- 🔭 Currently working on building a webserver
+- 🔭 Currently working on creating a website for the mighty Pong contest!
 - 🌱 Implementing daily routines that resonate with me
-- 🧝 Learning C++ and being human 
+- 🧝 Learning C++, Typescript, frameworks and being human 
 - 👯 Looking to collaborate on services which will assist us in a dreamlike (scifi) and useful way
 - 🌬️ I’m open for new experiences and change
-- 💬 Ask me about things you never dared asking
 - 📫 How to reach me: [Instagram](https://www.instagram.com/romyradau/)
-- ⚡ Fun fact: i am the best when i am not myself
 
   
 <img src="https://img.shields.io/badge/-C-4484FB?style=flat&logo=C&logoColor=4484FB&labelColor=282828"> <img src="https://img.shields.io/badge/-VirtualBox-375595?style=flat&logo=VirtualBox&logoColor=375595&labelColor=282828"> <img src="https://img.shields.io/badge/-Git-FA5C1C?style=flat&logo=Git&logoColor=FA5C1C&labelColor=282828"> <img src="https://img.shields.io/badge/-Bash-000000?style=flat&logo=gnubash&logoColor=FFFFFF&labelColor=282828"> <img src="https://img.shields.io/badge/-Notion-FFFFFF?style=flat&logo=Notion&logoColor=FFFFFF&labelColor=282828"> <img src="https://img.shields.io/badge/-Spotify-3CE36A?style=flat&logo=Spotify&logoColor=3CE36A&labelColor=282828"> 
