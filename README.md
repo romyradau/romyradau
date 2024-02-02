@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romyradau" alt="romyradau" /></a> </p>
 
-- 🔭 I’m currently working on ** Dataframe manipulation using Python pandas, Apache pyarrow, Jupyter**
+- 🔭 I’m currently working on **Dataframe manipulation using Python pandas, Apache pyarrow, Jupyter**
 
 - 🌱 I’m currently learning **Distinguishing language paradigms, enhancing my tech stack and becoming a professional engineer/consultant.**
 - 
@@ -15,15 +15,15 @@
 
 - 🤝 I’m looking for help with **executing my yet rather abstract ideas**
 
-- 👨‍💻 All of my projects are available at [There's older stuff here on GH as the customer projects aren't public]
+- 👨‍💻 All of my projects are available at **There's older stuff here on GH as the customer projects aren't public**
 - 
-- 📝 I regularly write articles on [I don't - I journal]
+- 📝 I regularly write articles on **I don't - I journal**
 
 - 💬 Ask me about **C, C++, C#, .NET, Angular, Python -> analogies for better understanding &| psychological and spiritual stuff**
 
 - 📫 How to reach me **Discord link**
 
-- 📄 Know about my experiences [Ask me - that's a long story:D]
+- 📄 Know about my experiences **Ask me - that's a long story:D**
 
 - ⚡ Fun fact **If I hadn't become a software engineer I'd be a vetenarian who's doing psychological stand up comedy on the weekend**
 
