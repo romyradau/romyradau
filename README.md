@@ -1,7 +1,3 @@
-
-
-- 👩🏼‍💻 Alumni at <a target="_blank" href="https://www.42heilbronn.de/en/">42 Heilbronn</a>, part of the <a target="_blank" href="https://42.fr/en/network-42/">world wide network</a>
-
 <h1 align="center">You now entered a place where magic happens</h1>
 <h3 align="center">Hi I'm Romy - female Software Engineer with the vision of a sci-fi like future.</h3>
 
@@ -11,29 +7,29 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romyradau" alt="romyradau" /></a> </p>
 
-- 🔭 I’m currently working on **Distinguish language paradigms, enhancing my tech stack and becoming a professional engineer/consultant.**
+- 🔭 I’m currently working on ** Dataframe manipulation using Python pandas, Apache pyarrow, Jupyter**
 
-- 🌱 I’m currently learning **Python pandas, Apache pyarrow**
-
+- 🌱 I’m currently learning **Distinguishing language paradigms, enhancing my tech stack and becoming a professional engineer/consultant.**
+- 
 - 👯 I’m looking to collaborate on **Anything that creates a WOW &| is really useful/helpful.**
 
-- 🤝 I’m looking for help with **Understanding the bigger picture of the IT Universe**
+- 🤝 I’m looking for help with **executing my yet rather abstract ideas**
 
-- 👨‍💻 All of my projects are available at [There's older stuff here on GH as the customer projects aren't public](There's older stuff here on GH as the customer projects aren't public)
+- 👨‍💻 All of my projects are available at [There's older stuff here on GH as the customer projects aren't public]
+- 
+- 📝 I regularly write articles on [I don't - I journal]
 
-- 📝 I regularly write articles on [I don't - I journal](I don't - I journal)
+- 💬 Ask me about **C, C++, C#, .NET, Angular, Python -> analogies for better understanding &| psychological and spiritual stuff**
 
-- 💬 Ask me about **C, C++, C#, .NET, VMs, analogies for better understanding.**
+- 📫 How to reach me **Discord link**
 
-- 📫 How to reach me **Discord linkq**
-
-- 📄 Know about my experiences [Ask me - that's a long story:D](Ask me - that's a long story:D)
+- 📄 Know about my experiences [Ask me - that's a long story:D]
 
 - ⚡ Fun fact **If I hadn't become a software engineer I'd be a vetenarian who's doing psychological stand up comedy on the weekend**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/romyradau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="romyradau" height="30" width="40" /></a>
+<a href="https://discord.gg/romyradau" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="romyradau" height="42" width="42" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
