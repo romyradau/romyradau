@@ -10,13 +10,13 @@
 - 🔭 I’m currently working on **Dataframe manipulation using Python pandas, Apache pyarrow, Jupyter**
 
 - 🌱 I’m currently learning **Distinguishing language paradigms, enhancing my tech stack and becoming a professional engineer/consultant.**
-- 
+
 - 👯 I’m looking to collaborate on **Anything that creates a WOW &| is really useful/helpful.**
 
 - 🤝 I’m looking for help with **executing my yet rather abstract ideas**
 
 - 👨‍💻 All of my projects are available at **There's older stuff here on GH as the customer projects aren't public**
-- 
+
 - 📝 I regularly write articles on **I don't - I journal**
 
 - 💬 Ask me about **C, C++, C#, .NET, Angular, Python -> analogies for better understanding &| psychological and spiritual stuff**
