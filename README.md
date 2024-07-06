@@ -1,5 +1,5 @@
 <h1 align="center">You now entered a place where magic happens</h1>
-<h3 align="center">Hi I'm Romy - female Software Engineer with the vision of a sci-fi like future.</h3>
+<h3 align="center">Hi I'm Romy - A Software Engineer with the vision of a sci-fi like future.</h3>
 
 <h4 align="center">👩🏼‍💻 Alumni at <a target="_blank" href="https://www.42heilbronn.de/en/">42 Heilbronn</a>, part of the <a target="_blank" href="https://42.fr/en/network-42/">world wide network</a></h4>
 
